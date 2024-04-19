@@ -1,0 +1,6 @@
+
+            func main() begin
+                dynamic VoTien
+                var x <- VoTien and (VoTien > VoTien)
+            end
+        
